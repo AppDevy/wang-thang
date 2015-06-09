@@ -1,0 +1,22 @@
+{
+    "aps": {
+        "alert": {
+            "body": "Found something for you",
+            "title": "Optional title"
+        },
+        "category": "myCategory"
+    },
+    
+    "WatchKit Simulator Actions": [
+        {
+            "title": "Show me",
+            "identifier": "firstButtonAction"
+        }
+    ],
+    
+    "offer" : {
+        "image-url" : "https://dl.dropboxusercontent.com/u/2393867/pasted_image_at_2015_04_24_11_16_am.png",
+        "product-name" : "L'AIR de PANACHE",
+        "product-price" : "49.99"
+    }
+}
